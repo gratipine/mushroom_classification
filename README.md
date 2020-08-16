@@ -4,3 +4,6 @@ python -m venv .venv
 
 
 data taken from https://datarepository.wolframcloud.com/resources/Sample-Data-Mushroom-Classification
+
+Goal:
+predict if a mushroom is edible

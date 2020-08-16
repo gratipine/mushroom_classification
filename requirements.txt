@@ -1,2 +1,8 @@
+wheel
+
+
 pandas
 jupyterlab
+scipy
+sklearn
+tensorflow
